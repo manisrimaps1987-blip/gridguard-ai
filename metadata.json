@@ -1,0 +1,6 @@
+{
+  "name": "GridGuard AI - Smart Grid & Electricity Intelligence",
+  "description": "AI-Powered Intelligence for a Safer, Smarter Power Grid. Real-time smart grid monitoring, consumption analytics, demand forecasting, outage detection, fault diagnosis, and AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
